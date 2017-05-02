@@ -1,0 +1,3 @@
+<configuration>
+  <serial_port value="/dev/ttyS1"/>
+</configuration>
