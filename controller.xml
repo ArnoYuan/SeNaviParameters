@@ -4,18 +4,18 @@
   <encoder_resolution value=16/>
   <gear_reduction value=62/>
   <wheel_track value=0.265/>
+  <accel_limit value=1.0/>
   <pid_kp_r value=20/>
   <pid_kd_r value=12/>
   <pid_ki_r value=0/>
-  <pid_ko_r value=50/>
   <pid_max_r value=90/>
   <pid_min_r value=30/>
   <pid_kp_l value=20/>
   <pid_kd_l value=12/>
   <pid_ki_l value=0/>
-  <pid_ko_l value=50/>
   <pid_max_l value=90/>
   <pid_min_l value=30/>
   <tolerance value=0.01/>
+  <rolls_sync_ratio value=2.0/>
   <control_duration value=100/>
 </configuration>
