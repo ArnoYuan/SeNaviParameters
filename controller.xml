@@ -10,14 +10,13 @@
   <pid_ki_r value=0/>
   <pid_ko_r value=50/>
   <pid_max_r value=100/>
-  <pid_min_r value=0/>
+  <pid_min_r value=10/>
   <pid_kp_l value=20/>
   <pid_kd_l value=12/>
   <pid_ki_l value=0/>
   <pid_ko_l value=50/>
   <pid_max_l value=100/>
-  <pid_min_l value=0/>
-  <tolerance value=0.01/>
-  <control_duration value=100/>
+  <pid_min_l value=10/>
+  <control_duration value=33/>
   <control_timeout value=1000/>
 </configuration>
