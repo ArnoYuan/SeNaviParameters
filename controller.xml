@@ -4,7 +4,7 @@
   <encoder_resolution value=16/>
   <gear_reduction value=62/>
   <wheel_track value=0.265/>
-  <accel_limit value=1.0/>
+  <accel_limit value=0.2/>
   <pid_kp_r value=20/>
   <pid_kd_r value=12/>
   <pid_ki_r value=0/>

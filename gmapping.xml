@@ -1,0 +1,35 @@
+<configuration>
+  <up_mounted value="1"/>
+  <max_range value="6.0"/>
+  <max_u_range value="4.0"/>
+  <minimum_score value="30.0"/>
+  <sigma value="0.05"/>
+  <kernel_size value="1"/>
+  <lstep value="0.05"/>
+  <astep value="0.05"/>
+  <iterations value="5"/>
+  <lsigma value="0.075"/>
+  <ogain value="3.0"/>
+  <lskip value="1"/>
+  <srr value="0.1"/>
+  <srt value="0.2"/>
+  <str value="0.1"/>
+  <stt value="0.2"/>
+  <linear_update value="0.1"/>
+  <angular_update value="0.1"/>
+  <temporal_update value="-1.0"/>
+  <resample_threshold value="0.5"/>
+  <particles value="30"/>
+  <xmin value="-25"/>
+  <ymin value="-25"/>
+  <xmax value="25"/>
+  <ymax value="25"/>
+  <delta value="0.1"/>
+  <occ_thresh value="0.25"/>
+  <llsamplerange value="0.01"/>
+  <llsamplestep value="0.01"/>
+  <lasamplerange value="0.005"/>
+  <lasamplestep value="0.005"/>
+  <throttle_scans value="5"/>
+  <map_update_interval value="3.0"/>
+</configuration>
