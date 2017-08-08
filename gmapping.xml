@@ -4,7 +4,7 @@
   <max_u_range value="4.0"/>
   <minimum_score value="30.0"/>
   <sigma value="0.05"/>
-  <kernel_size value="1"/>
+  <kernel_size value="3"/>
   <lstep value="0.05"/>
   <astep value="0.05"/>
   <iterations value="5"/>
