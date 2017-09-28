@@ -1,0 +1,6 @@
+<configuration>
+  <script value="/usr/sbin/SeNavigation"/>
+  <verbose value="0"/>
+  <core value="3"/>
+  <log_file value=""/>
+</configuration>

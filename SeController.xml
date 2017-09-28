@@ -1,0 +1,6 @@
+<configuration>
+  <script value="/usr/sbin/SeController"/>
+  <verbose value="0"/>
+  <core value="1"/>
+  <log_file value=""/>
+</configuration>
