@@ -1,5 +1,0 @@
-<configuration>
-  <disable_stdout value="0"/>
-  <redirect_stdout_file value=""/>
-  <debug value="0"/>
-</configuration>
