@@ -1,0 +1,6 @@
+<configuration>
+  <script value="/usr/sbin/SeTrunk"/>
+  <verbose value="0"/>
+  <core value="0"/>
+  <log_file value=""/>
+</configuration>
