@@ -1,0 +1,7 @@
+<configuration>
+  <map_path value="/tmp/gmap.jpg"/>
+  <map_update_rate value=1.0/>
+  <app_ip_addr value="127.0.0.1"/>
+  <app_map_port value=12345/>
+  <app_goal_port value=12346/>
+</configuration>

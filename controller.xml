@@ -19,4 +19,5 @@
   <pid_min_l value=0/>
   <control_duration value=50/>
   <control_timeout value=1000/>
+  <use_ekf value=0/>
 </configuration>
