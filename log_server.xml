@@ -1,0 +1,4 @@
+<configuration>
+  <log_server_ip value="127.0.0.1"/>
+  <log_server_port value=12348/>
+</configuration>
