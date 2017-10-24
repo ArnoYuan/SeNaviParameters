@@ -2,5 +2,5 @@
   <script value="/usr/sbin/SeNavigation"/>
   <verbose value="0"/>
   <core value="3"/>
-  <log_file value=""/>
+  <remote_log value=1/>
 </configuration>

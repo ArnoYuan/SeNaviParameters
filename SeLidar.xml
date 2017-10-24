@@ -2,5 +2,5 @@
   <script value="/usr/sbin/SeLidar"/>
   <verbose value="0"/>
   <core value="0"/>
-  <log_file value=""/>
+  <remote_log value=1/>
 </configuration>

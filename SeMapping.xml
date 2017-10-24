@@ -2,5 +2,5 @@
   <script value="/usr/sbin/SeMapping"/>
   <verbose value="0"/>
   <core value="2"/>
-  <log_file value=""/>
+  <remote_log value=1/>
 </configuration>
