@@ -1,0 +1,36 @@
+<configuration>
+	<prune_plan value = 1/>
+	<yaw_goal_tolerance value = 0.10/>
+	<xy_goal_tolerance value = 0.10/>
+	<acc_lim_x value = 0.3/>
+	<acc_lim_y value = 0/>
+	<acc_lim_theta value = 0.3/>
+	<stop_time_buffer value = 0.2/>
+	<latch_xy_goal_tolerance value = 1/>
+	<sim_period value=0.05/>
+	<sim_time value=2.0/>
+	<sim_granularity value=0.025/>
+	<vx_samples value=20/>
+	<vtheta_samples value=40/>
+	
+	
+	
+	<path_distance_bias value=32.0/>
+	<goal_distance_bias value=9.0/>
+	<occdist_scale value=0.02/>
+	<meter_scoring value=1/>
+	<heading_lookahead value=0.325/>
+	<oscillation_reset_dist value=0.05/>
+	<escape_reset_dist value=0.05/>
+	
+	<holonomic_robot value=0/>
+	<max_vel_x value=0.2/>
+	<min_vel_x value=0.1/>
+	<max_rotational_vel value=0.2/>
+	<min_rotational_vel value=0.1/>
+	<min_in_place_rotational_vel value=0.1/>
+	<escape_vel value=-0.1/>
+	<dwa value=1/>
+	<heading_scoring value=1/>
+	<heading_scoring_timestep value=0.8/>
+</configuration>
