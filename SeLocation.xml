@@ -1,6 +1,6 @@
 <configuration>
-  <script value="/usr/sbin/SeController"/>
+  <script value="/usr/sbin/SeLocation"/>
   <verbose value="0"/>
-  <core value="0"/>
+  <core value="1"/>
   <remote_log value=1/>
 </configuration>
