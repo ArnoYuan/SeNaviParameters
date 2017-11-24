@@ -1,0 +1,14 @@
+<configuration>
+  <map_resolution value=0.05/>
+  <map_size value=1024/>
+  <map_start_x value=0.05/>
+  <map_start_y value=0.05/>
+  <map_multi_res_levels value=3/>
+  <update_factor_free value=0.4/>
+  <update_factor_occupied value=0.7/>
+  <map_update_distance_threshold value=0.2/>
+  <map_update_angle_threshold value=0.06/>
+  <laser_min_dist value=0.1/>
+  <laser_max_dist value=8.0/>
+  <map_update_frequency value=2.0/>
+</configuration>
