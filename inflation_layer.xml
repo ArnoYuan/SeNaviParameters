@@ -1,0 +1,4 @@
+<configuration>
+  <inflation_radius value=0.55/>
+  <cost_scaling_factor value=5.0/>
+</configuration>
