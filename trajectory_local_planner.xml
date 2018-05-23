@@ -1,7 +1,7 @@
 <configuration>
 	<prune_plan value = 1/>
 	<yaw_goal_tolerance value = 1.50/>
-	<xy_goal_tolerance value = 0.30/>
+	<xy_goal_tolerance value = 0.20/>
 	<acc_lim_x value = 0.2/>
 	<acc_lim_y value = 0/>
 	<acc_lim_theta value = 0.2/>
